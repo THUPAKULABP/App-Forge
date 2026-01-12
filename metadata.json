@@ -1,8 +1,0 @@
-{
-  "name": "AppForge Free - Website to Android Converter",
-  "description": "A high-end, 100% free platform to convert any website into a feature-rich Android app (AAB/APK), featuring AI-powered metadata generation and advanced customization.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
